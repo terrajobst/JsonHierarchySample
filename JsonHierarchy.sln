@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29208.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonHierarchy", "JsonHierarchy\JsonHierarchy.csproj", "{FBBFDD6F-547F-4CEC-ADF9-3AFFA38E58A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBBFDD6F-547F-4CEC-ADF9-3AFFA38E58A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBFDD6F-547F-4CEC-ADF9-3AFFA38E58A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBFDD6F-547F-4CEC-ADF9-3AFFA38E58A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBFDD6F-547F-4CEC-ADF9-3AFFA38E58A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AEA1766-6435-43A8-94EE-42C6F2E99011}
+	EndGlobalSection
+EndGlobal
